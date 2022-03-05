@@ -2,9 +2,9 @@
   "name": "reddit-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://danpaul.github.io/reddit_lazy_stream",
+  "homepage": "https://danpaul.github.io/lazy-stream/",
   "dependencies": {
-    "github-pages": "^3.0.2",
+    "gh-pages": "^3.2.3",
     "lodash": "^4.17.10",
     "react": "^16.4.2",
     "react-bottom-scroll-listener": "^1.3.0",
